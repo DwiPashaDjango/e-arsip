@@ -17,7 +17,7 @@ Lalu ketik command dibawah ini
 -   php artisan migrate (migrasi database)
 -   php artisan db:seed
 
-## Requiretments
+## Requirtments
 
 -   PHP Version 7.3
 -   Laravel 8
